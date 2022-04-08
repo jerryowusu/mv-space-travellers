@@ -15,6 +15,7 @@ The data for this website is fetched from the following:
 
 ## Built With
 
+-JavaScript
 - React
 - Redux
 - CSS
